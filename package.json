@@ -9,7 +9,7 @@
   "bugs": {
     "url": "https://github.com/smakosh/react-flex-ready/issues"
   },
-  "repository": "smakosh/react-flex-ready",
+  "repository": "uvacoder/demo-react-flex-ready",
   "homepage": "https://react-flex-ready.vercel.app",
   "files": [
     "dist",
